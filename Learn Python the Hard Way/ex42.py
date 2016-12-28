@@ -6,7 +6,7 @@ class Map(object):
         self.quips = [
             "You died. You kinda suck at this.",
             "Your mom would be proud. If she were smarter.",
-            "Such a luser.",
+            "Such a loser.",
             "I have a small puppy that's better at this."]
 
     def death(self):
